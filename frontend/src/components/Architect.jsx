@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Canvas } from '@react-three/fiber';
 import { Box } from '@react-three/drei';
-import one from '../assets/residential_1_advanced.glb'
+import one from '../assets/res_solar.glb'
 const Architect = () => {
   const [buildingType, setBuildingType] = useState('residential');
   const [numFloors, setNumFloors] = useState(1);
