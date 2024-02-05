@@ -61,7 +61,7 @@ const SustainableAddons = () => {
   };
 
   return (
-    <div className="container mx-auto mt-8 p-4 bg-gray-100 rounded-lg">
+    <div className="container mx-auto mt-40 p-4 bg-gray-100 rounded-lg">
       <label htmlFor="buildingType" className="block text-lg font-bold mb-2">
         Select Building Type:
       </label>
